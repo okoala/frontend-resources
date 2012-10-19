@@ -1,4 +1,4 @@
-sources
-=======
+##javascript 动画库
 
-平常收集的一些资源
+Raphaël ----- http://raphaeljs.com/
+prepareTransition ----- https://github.com/snookca/prepareTransition
