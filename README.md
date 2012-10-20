@@ -18,9 +18,11 @@
 
 ---
 
-######
+######Documentation 文档、手册
 
 * [CSS参考手册] (http://css.doyoe.com/) 包含css2.1、css3  ★★★☆ 
+* [ECMAScript5.1中文版] (http://ecmascript.cn/) 
+* [ECMAScript5.1英文版] (http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
 
 ---
 
@@ -37,6 +39,9 @@
 
 * [开源中国在线工具] (http://www.ostools.net/) 各种各样的工具、文档，相当给力。★★★☆
 * [Closure Compiler] (http://closure-compiler.appspot.com) js压缩，可以看到压缩后的大小，以及gzip后大小 ★★
+* [CSS 验证] (http://jigsaw.w3.org/css-validator/) 检查层叠样式表(CSS)文档和HTML或者XHTML文档中的CSS内容
+* [JS beautifier] (http://jsbeautifier.org/) Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc.
+* [jslint] (http://www.jslint.com/) 检测javascript代码质量
 
 ---
 
@@ -44,15 +49,19 @@
 
 * [Raphaël] (http://raphaeljs.com/) 通过SVG/VML+JS实现跨浏览器的矢量图形实现方案，支持IE6+、Firefox 3.0+、chrome、opera。★★★☆
 * [prepareTransition] (https://github.com/snookca/prepareTransition)
+* [Three.js] (http://mrdoob.github.com/three.js/) javascript的3D库
+* [Animate.css] (http://daneden.me/animate/) 很酷，有趣的跨浏览器的动画库，当然支持现代浏览器。
 
 ---
 
 ######Article 文章
 
-* [ECMAScript5.1中文版] (http://ecmascript.cn/) 
+---
 
 ######Other 其他
 
-* [W3Techs] (http://w3techs.com/) 提供网络上各种类型的技术被使用的信息情况 
+* [Mozilla] (https://developer.mozilla.org/zh-CN/) mozilla的开源社区，各种文档，各种demo
+* [W3Techs] (http://w3techs.com/) 提供网络上各种类型的技术被使用的信息情况
+* [JS 设计模式] (http://shichuan.github.com/javascript-patterns/) 里面收集了各种设计模式的资源。
 
 
