@@ -63,6 +63,7 @@
 ######Image library 图像处理
 
 * [Pixastic] (http://blog.nihilogic.dk/2008/03/jsimagefx-javascript-image-effects.html) 使用javascript和canvas处理图像。
+* [Face] (http://people.opera.com/richt/release/demos/device/facerecognition/) 脸部识别的一个demo
 
 ---
 
