@@ -51,12 +51,18 @@
 
 ---
 
-######Animation 动画库
+######Animation library 动画库
 
 * [Raphaël] (http://raphaeljs.com/) 通过SVG/VML+JS实现跨浏览器的矢量图形实现方案，支持IE6+、Firefox 3.0+、chrome、opera。★★★☆
 * [prepareTransition] (https://github.com/snookca/prepareTransition)
 * [Three.js] (http://mrdoob.github.com/three.js/) javascript的3D库
 * [Animate.css] (http://daneden.me/animate/) 很酷，有趣的跨浏览器的动画库，当然支持现代浏览器。
+
+---
+
+######Image library 图像处理
+
+* [Pixastic] (http://blog.nihilogic.dk/2008/03/jsimagefx-javascript-image-effects.html) 使用javascript和canvas处理图像。
 
 ---
 
