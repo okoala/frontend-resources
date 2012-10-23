@@ -67,6 +67,11 @@
 
 ---
 
+######Audio library 音频处理
+
+*[Dancer] (http://jsantell.github.com/dancer.js)
+---
+
 ######Article 文章
 
 ---
