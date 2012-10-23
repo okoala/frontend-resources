@@ -69,7 +69,8 @@
 
 ######Audio library 音频处理
 
-*[Dancer] (http://jsantell.github.com/dancer.js)
+* [Dancer] (http://jsantell.github.com/dancer.js)
+
 ---
 
 ######Article 文章
@@ -81,5 +82,6 @@
 * [Mozilla] (https://developer.mozilla.org/zh-CN/) mozilla的开源社区，各种文档，各种demo
 * [W3Techs] (http://w3techs.com/) 提供网络上各种类型的技术被使用的信息情况
 * [JS 设计模式] (http://shichuan.github.com/javascript-patterns/) 里面收集了各种设计模式的资源。
+* [nodejsmodules] (http://nodejsmodules.org/) 显示nodejs模块的流行度。
 
 
