@@ -14,6 +14,7 @@
 * [Can I use] (http://caniuse.com/) 提供的功能在html5，css3，svg和其他即将出现的web技术的兼容性表。★★★★
 * [W3help] (http://w3help.org/zh-cn/) 提供W3C标准，兼容性的根本原因，知识库，案例分析。★★★☆ (中)
 
+
 ---
 
 ######Documentation 文档、手册
@@ -41,6 +42,8 @@
 * [CSS 验证] (http://jigsaw.w3.org/css-validator/) 检查层叠样式表(CSS)文档和HTML或者XHTML文档中的CSS内容
 * [JS beautifier] (http://jsbeautifier.org/) Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc.
 * [jslint] (http://www.jslint.com/) 检测javascript代码质量
+* [CSS LINT] (http://csslint.net/) 帮你找出你CSS中的问题。不光是语法错误，它还能指出你的代码写的不合理的地方，或者不高效的地方。
+* [holmes.css] (http://www.red-root.com/sandbox/holmes/) 这个CSS可以帮你找出你网页中写的不标准的HTML代码。
 
 ---
 
