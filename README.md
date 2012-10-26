@@ -88,5 +88,6 @@
 * [JS 设计模式] (http://shichuan.github.com/javascript-patterns/) 里面收集了各种设计模式的资源。
 * [nodejsmodules] (http://nodejsmodules.org/) 显示nodejs模块的流行度。
 * [softpedia] (http://www.softpedia.com/) 各个平台，各种语言的软件平台。
+* [jster] (http://jster.net/) JSter是一个由社区驱动的、最流行实用的JavaScript库的列表，开发者可以在该网站中按照分类查阅相对应的JavaScript库。 
 
 
