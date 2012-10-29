@@ -49,7 +49,7 @@
 
 ---
 
-######JavaScript Game Engine 游戏引擎
+######Game Engine 游戏引擎
 
 * [Impact] (http://impactjs.com/) 收钱的
 
@@ -78,7 +78,10 @@
 
 ---
 
-######Article 文章
+######Time library 时间处理
+
+* [Pikaday] (https://github.com/dbushell/Pikaday) 时间选择控件。
+* [Moment] (https://github.com/timrwood/moment/) 功能是分析、验证以及处理时间数据。
 
 ---
 
