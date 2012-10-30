@@ -87,11 +87,14 @@
 
 ######Other 其他
 
+* [W3C] (http://www.w3.org/) The World Wide Web Consortium
 * [Mozilla] (https://developer.mozilla.org/zh-CN/) mozilla的开源社区，各种文档，各种demo
+* [Opera] (http://dev.opera.com/) Opera的开发社区
+* [Safari] (http://developer.apple.com/library/safari/navigation/)
 * [W3Techs] (http://w3techs.com/) 提供网络上各种类型的技术被使用的信息情况
 * [JS 设计模式] (http://shichuan.github.com/javascript-patterns/) 里面收集了各种设计模式的资源。
 * [nodejsmodules] (http://nodejsmodules.org/) 显示nodejs模块的流行度。
 * [softpedia] (http://www.softpedia.com/) 各个平台，各种语言的软件平台。
 * [jster] (http://jster.net/) JSter是一个由社区驱动的、最流行实用的JavaScript库的列表，开发者可以在该网站中按照分类查阅相对应的JavaScript库。 
-
+* [CSS3=Awesome] (http://css3.bradshawenterprises.com/) 一个专门介绍CSS3的网站。
 
