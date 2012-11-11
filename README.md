@@ -97,4 +97,4 @@
 * [softpedia] (http://www.softpedia.com/) 各个平台，各种语言的软件平台。
 * [jster] (http://jster.net/) JSter是一个由社区驱动的、最流行实用的JavaScript库的列表，开发者可以在该网站中按照分类查阅相对应的JavaScript库。 
 * [CSS3=Awesome] (http://css3.bradshawenterprises.com/) 一个专门介绍CSS3的网站。
-
+* [Esprima] (http://esprima.org/demo/parse.html) ECMAScript解析器
