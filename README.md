@@ -21,11 +21,18 @@
 ######Documentation 文档、手册
 
 * [CSS参考手册] (http://css.doyoe.com/) 包含css2.1、css3  ★★★☆ 
+* [CSS3动画手册] (http://ecd.tencent.com/css3/guide.html) 由腾讯ECD出品。
 * [ECMAScript5.1中文版] (http://ecmascript.cn/) 
 * [ECMAScript5.1英文版] (http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
 
 ---
 
+######Design Tools Web设计工具
+
+* [谷歌设计工具] (https://www.google.com/webdesigner/) 创建HTML5动画，运行于任何设备。★★★☆ 
+
+
+---
 
 ######Online Edit 在线编辑
 
@@ -46,6 +53,7 @@
 * [jslint] (http://www.jslint.com/) 检测javascript代码质量
 * [CSS LINT] (http://csslint.net/) 帮你找出你CSS中的问题。不光是语法错误，它还能指出你的代码写的不合理的地方，或者不高效的地方。
 * [holmes.css] (http://www.red-root.com/sandbox/holmes/) 这个CSS可以帮你找出你网页中写的不标准的HTML代码。
+* [在线编辑CSS3代码] (http://enjoycss.com/gZ/1) 这个工具很不错。
 
 ---
 
@@ -99,3 +107,4 @@
 * [CSS3=Awesome] (http://css3.bradshawenterprises.com/) 一个专门介绍CSS3的网站。
 * [Esprima] (http://esprima.org/demo/parse.html) ECMAScript解析器
 * [it-ebooks] (http://it-ebooks.info/) IT 电子书网站
+* [Unicode character table] (http://unicode-table.com/en/) 可以很方便的查找unicode字符。
