@@ -20,7 +20,7 @@
 
 ######Documentation 文档、手册
 
-* [devdocs] (http://devdocs.io/) 感觉是最好用的API文档手册。
+* [DevDocs] (http://devdocs.io/) 感觉是最好用的API文档查找手册。
 * [CSS参考手册] (http://css.doyoe.com/) 包含css2.1、css3  ★★★☆ 
 * [CSS3动画手册] (http://ecd.tencent.com/css3/guide.html) 由腾讯ECD出品。
 * [ECMAScript5.1中文版] (http://ecmascript.cn/) 
@@ -97,6 +97,15 @@
 ######Performance Optimization 性能优化
 
 * [性能调优攻略] (http://www.oschina.net/question/28_58930) 
+
+---
+
+######Search Tools 搜索工具
+
+* [Microjs] (http://microjs.com/) 搜索JavaScript库，还行。不同通常都是直接Google搜来着。
+* [Angular Modules] (http://ngmodules.org/) Angular模块搜索。
+* [Npm Search] (http://npmsearch.com/) NPM模块搜索。
+* [Javascript OO] (http://www.javascriptoo.com/) 展示了很多项目可以用到的JS类库。还提供了demo，非常贴心。
 
 ---
 
