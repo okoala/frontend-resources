@@ -20,6 +20,7 @@
 
 ######Documentation 文档、手册
 
+* [devdocs] (http://devdocs.io/) 感觉是最好用的API文档手册。
 * [CSS参考手册] (http://css.doyoe.com/) 包含css2.1、css3  ★★★☆ 
 * [CSS3动画手册] (http://ecd.tencent.com/css3/guide.html) 由腾讯ECD出品。
 * [ECMAScript5.1中文版] (http://ecmascript.cn/) 
