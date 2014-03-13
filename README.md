@@ -94,6 +94,12 @@
 
 ---
 
+######Performance Optimization 性能优化
+
+* [性能调优攻略] (http://www.oschina.net/question/28_58930) 
+
+---
+
 ######Other 其他
 
 * [W3C] (http://www.w3.org/) The World Wide Web Consortium
