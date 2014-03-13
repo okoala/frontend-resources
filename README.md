@@ -124,9 +124,15 @@
 
 ---
 
-######WebGL WebGl相关的资料
+######WebGl相关的资料
 
 * [AlteredQualia] (http://alteredqualia.com/) 
+
+---
+
+######Node.js相关的资料
+
+* [Node.js-Best practices] (http://www.slideshare.net/the_undefined/nodejs-best-practices-10428790) 
 
 ---
 
